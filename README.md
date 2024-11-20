@@ -11,7 +11,7 @@ To compile and include `libft` in your projects:
 1. Clone this repository.
    ```bash
    git clone https://github.com/alianad/42-Libft.git
-   cd libft
+   cd 42-Libft
 
 2. Compile the library.
    ```bash
