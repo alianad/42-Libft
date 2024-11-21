@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="200" src="https://github.com/user-attachments/assets/da89a02a-c161-486f-838b-8ca24aeb10e4">
+</p>
+
 # 42-Libft
 Libft is a custom C library containing various utility functions that emulate those in the standard C library. It serves as a foundational library for future projects, providing essential tools and functionalities.
 
