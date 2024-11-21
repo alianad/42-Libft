@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/user-attachments/assets/da89a02a-c161-486f-838b-8ca24aeb10e4">
+    <img width="100" src="https://github.com/user-attachments/assets/da89a02a-c161-486f-838b-8ca24aeb10e4">
 </p>
 
 # 42-Libft
